@@ -11,3 +11,6 @@ If your publication is not included here, please feel free to send me pull reque
    - **Survey**
    - **2021**
      - **ICML 2021**
+## 2021
+### ICML 2021
+- [Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile Clients](https://dl.acm.org/doi/abs/10.1145/3447993.3483278)
