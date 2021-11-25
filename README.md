@@ -25,3 +25,4 @@ If your publication is not included here, please feel free to send me pull reque
 | [DeepReduce: A Sparse-tensor Communication Framework for Federated Deep Learning](https://openreview.net/forum?id=OAy508Q3T8)  | KAUST | Communication Efficiency | Tensors Compression| [Code](https://github.com/hangxu0304/DeepReduce)|
 | [Parameterized Knowledge Transfer for Personalized Federated Learning](https://openreview.net/forum?id=_89s8ViNwwj)  | POLYU, HUST| Heterogeneous data | Knowledge Transfer|
 | [Fast Federated Learning in the Presence of Arbitrary Device Unavailability](https://openreview.net/forum?id=1_gaHBaRYt)  | Tsinghua, Princeton, MIT| Heterogeneous data, Latency | Novel asynchronous algorithm| [Code](https://github.com/hmgxr128/MIFA_code/)|
+| [Few-Round Learning for Federated Learning](https://openreview.net/forum?id=ZgUZmeV1Mtut)  | KAIST | Communication Efficiency | Meta Learning |
