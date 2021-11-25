@@ -13,4 +13,8 @@ If your publication is not included here, please feel free to send me pull reque
      - **ICML 2021**
 ## 2021
 ### ICML 2021
-- [Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile Clients](https://dl.acm.org/doi/abs/10.1145/3447993.3483278)
+| Title  | Authors |  Targeting Problem | Method | Code/Dataset |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile Clients](https://dl.acm.org/doi/abs/10.1145/3447993.3483278)  | Duke University | Communication& Interence Efficiency | Persona;ized and structured sparse DNN network|
+
+### 
