@@ -1,5 +1,5 @@
 # Awesome-Efficient-Federated-Learning
-A curated list of **Efficient Federated Learning** and **Personalized Federated Learning** publications in Top-tier Conference, included ICML, NeurIPS, AAAI, etc.
+A curated list of **Efficient Federated Learning** and **Personalized Federated Learning** publications in Top-tier Conference, included **ICML, NeurIPS, AAAI, etc.**
 ## Contributing
 If your publication is not included here, please feel free to send me pull requests or email (zhuhuixiang@hust.edu.cn) to add links.
 ## Change Log
