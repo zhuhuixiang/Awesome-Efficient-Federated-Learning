@@ -11,10 +11,14 @@ If your publication is not included here, please feel free to send me pull reque
    - **Survey**
    - **2021**
      - **ICML 2021**
+     - **NeurIPS 2021**
 ## 2021
 ### ICML 2021
 | Title  | Authors |  Targeting Problem | Method | Code/Dataset |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile Clients](https://dl.acm.org/doi/abs/10.1145/3447993.3483278)  | Duke，Alibaba | Communication &  Inference Efficiency | Personalized and structured sparse network | 
 
-### 
+### NeurIPS 2021
+| Title  | Authors |  Targeting Problem | Method | Code/Dataset |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning](https://openreview.net/pdf?id=P_egPJZKro)  | UCLA | Heterogeneous data and resources | Knowledge distillation | 
