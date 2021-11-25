@@ -19,7 +19,7 @@ If your publication is not included here, please feel free to send me pull reque
 | [Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile Clients](https://dl.acm.org/doi/abs/10.1145/3447993.3483278)  | Duke，Alibaba | Communication &  Inference Efficiency | Personalized and structured sparse network | 
 
 ### NeurIPS 2021
-| Title  | Authors |  Targeting Problem | Method | Code/Dataset |
+| Title  | Authors |  Targeting Problem | Method | Code/Dataset | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning](https://openreview.net/forum?id=P_egPJZKro)  | UCLA | Heterogeneous data and resources | Knowledge Distillation | 
 | [DeepReduce: A Sparse-tensor Communication Framework for Federated Deep Learning](https://openreview.net/forum?id=OAy508Q3T8)  | KAUST | Communication Efficiency | Tensors Compression| [Code](https://github.com/hangxu0304/DeepReduce)|
