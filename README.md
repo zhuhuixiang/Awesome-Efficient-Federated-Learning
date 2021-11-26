@@ -21,8 +21,9 @@ If your publication is not included here, please feel free to send me pull reque
 ### NeurIPS 2021
 | Title  | Authors |  Targeting Problem | Method | Code/Dataset | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning](https://openreview.net/forum?id=P_egPJZKro)  | UCLA | Heterogeneous data and resources | Knowledge Distillation | 
+| [QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning](https://openreview.net/forum?id=P_egPJZKro)  | UCLA | Non-I.I.D, Resource Heterogeneity | Knowledge Distillation | 
 | [DeepReduce: A Sparse-tensor Communication Framework for Federated Deep Learning](https://openreview.net/forum?id=OAy508Q3T8)  | KAUST | Communication Efficiency | Tensors Compression| [Code](https://github.com/hangxu0304/DeepReduce)|
-| [Parameterized Knowledge Transfer for Personalized Federated Learning](https://openreview.net/forum?id=_89s8ViNwwj)  | POLYU, HUST| Heterogeneous data | Knowledge Transfer|
-| [Fast Federated Learning in the Presence of Arbitrary Device Unavailability](https://openreview.net/forum?id=1_gaHBaRYt)  | Tsinghua, Princeton, MIT| Heterogeneous data, Latency | Novel asynchronous algorithm| [Code](https://github.com/hmgxr128/MIFA_code/)|
+| [Parameterized Knowledge Transfer for Personalized Federated Learning](https://openreview.net/forum?id=_89s8ViNwwj)  | POLYU, HUST| Non-I.I.D | Knowledge Transfer|
+| [Fast Federated Learning in the Presence of Arbitrary Device Unavailability](https://openreview.net/forum?id=1_gaHBaRYt)  | Tsinghua, Princeton, MIT| Non-I.I.D, Latency | Novel asynchronous algorithm| [Code](https://github.com/hmgxr128/MIFA_code/)|
 | [Few-Round Learning for Federated Learning](https://openreview.net/forum?id=ZgUZmeV1Mtut)  | KAIST | Communication Efficiency | Meta Learning |
+| [Personalized Federated Learning With Gaussian Processes](https://openreview.net/forum?id=byCQ9Uu4PD)  | BIU, NVIDIA | Non-I.I.D, Communication Efficiency | Gaussian processes with deep kernel learning | [Code](https://github.com/IdanAchituve/pFedGP)|
