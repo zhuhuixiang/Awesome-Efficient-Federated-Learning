@@ -28,3 +28,4 @@ If your publication is not included here, please feel free to send me pull reque
 | [Few-Round Learning for Federated Learning](https://openreview.net/forum?id=ZgUZmeV1Mtut)  | KAIST | Communication Efficiency | Meta Learning |
 | [Personalized Federated Learning With Gaussian Processes](https://openreview.net/forum?id=byCQ9Uu4PD)  | BIU, NVIDIA | Non-I.I.D, Communication Efficiency | Gaussian processes with deep kernel learning | [Code](https://github.com/IdanAchituve/pFedGP)|
 | [Linear Convergence in Federated Learning: Tackling Client Heterogeneity and Sparse Gradients ](https://openreview.net/forum?id=h7FqQ6hCK18)  | UPENN | Strongly-convex / Convex / Non-convex Optimization | 
+| [On Large-Cohort Training for Federated Learning ](https://openreview.net/forum?id=Kb26p7chwhf)  | Google, CMU | Number of clients sampled at each round | | [Code](https://github.com/google-research/federated/tree/f4e26c1b9b47ac320e520a8b9943ea2c5324b8c2/large_cohort)|
