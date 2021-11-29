@@ -8,10 +8,15 @@ If your publication is not included here, please feel free to send me pull reque
 ## Table of Contents
 
 ## publications in Top-tier Conference
-   - **Survey**
+   - **Survey & Benchmark**
    - **2021**
      - **ICML 2021**
      - **NeurIPS 2021**
+## Survey & Benchmark
+| Title  | Authors | Category |  Targeting Problem | Code/Dataset |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Personalized Cross-Silo Federated Learning on Non-IID Data](https://ojs.aaai.org/index.php/AAAI/article/view/16960)  | SFU，Huawei | Benchmark | Personalized and structured sparse network | 
+
 ## 2021
 ### ICML 2021
 | Title  | Authors |  Targeting Problem | Method | Code/Dataset |
@@ -34,3 +39,9 @@ If your publication is not included here, please feel free to send me pull reque
 | [Breaking the centralized barrier for cross-device federated learning](https://openreview.net/forum?id=FMPuzXV1fR)  | EPFL, Google | Non-I.I.D, Communication Efficiency  |  |[Code](https://github.com/google/fedjax) [Document](https://fedjax.readthedocs.io/en/latest/fedjax.algorithms.html#)|
 | [FedDR – Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization ](https://openreview.net/forum?id=SkDYNXUM4xZ)  | UNC | Non-I.I.D, Communication Efficiency  | A combination between a nonconvex Douglas-Rachford splitting method, randomized block-coordinate strategies, and asynchronous implementation |
 | [STEM: A Stochastic Two-Sided Momentum Algorithm Achieving Near-Optimal Sample and Communication Complexities for Federated Learning](https://openreview.net/forum?id=J28lNO4p3ki)  | UMN, CMU | Parameters Optimization  |
+
+### AAAI 2021
+| Title  | Authors |  Targeting Problem | Method | Code/Dataset |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [On the Convergence of Communication-Efficient Local SGD for Federated Learning](https://ojs.aaai.org/index.php/AAAI/article/view/16920)  | Temple，PITT | Communication Efficiency | Gradient Compression | 
+| [Personalized Cross-Silo Federated Learning on Non-IID Data](https://ojs.aaai.org/index.php/AAAI/article/view/16960)  | SFU，Huawei | Non-I.I.D, Communication Efficiency | Attentive Message Passing Mechanism | [Code](https://t.ly/nGN9)|
