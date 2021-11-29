@@ -3,7 +3,7 @@ A curated list of **Efficient Federated Learning** and **Personalized Federated 
 ## Contributing
 If your publication is not included here, please feel free to send me pull requests or email (zhuhuixiang@hust.edu.cn) to add links.
 ## Change Log
-- Dec.1st.2021 The first version released.
+- Dec.1st.2021 The first version will release.
 - **Updating**
 ## Table of Contents
 
