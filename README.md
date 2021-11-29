@@ -13,9 +13,6 @@ If your publication is not included here, please feel free to send me pull reque
      - **ICML 2021**
      - **NeurIPS 2021**
 ## Survey & Benchmark
-| Title  | Authors | Category |  Targeting Problem | Code/Dataset |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Personalized Cross-Silo Federated Learning on Non-IID Data](https://ojs.aaai.org/index.php/AAAI/article/view/16960)  | SFU，Huawei | Benchmark | Personalized and structured sparse network | 
 
 ## 2021
 ### ICML 2021
