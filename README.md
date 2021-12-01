@@ -9,19 +9,17 @@ If your publication is not included here, please feel free to send me pull reque
 
 ## publications in Top-tier Conference
    - **Survey & Benchmark**
-   - **2021**
-     - **ICML 2021**
-     - **NeurIPS 2021**
-     - **AAAI 2021**
+   - **ICML 2021**
+   - **NeurIPS 2021**
+   - **AAAI 2021**
 ## Survey & Benchmark
 
-## 2021
-### ICML 2021
+## ICML 2021
 | Title  | Authors |  Targeting Problem | Method | Code/Dataset |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile Clients](https://dl.acm.org/doi/abs/10.1145/3447993.3483278)  | Duke，Alibaba | Communication &  Inference Efficiency | Personalized and structured sparse network | 
 
-### NeurIPS 2021 
+## NeurIPS 2021 
 | Title  | Authors |  Targeting Problem | Method | Code/Dataset | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning](https://openreview.net/forum?id=P_egPJZKro)  | UCLA | Non-I.I.D, Resource Heterogeneity | Knowledge Distillation | 
@@ -38,7 +36,7 @@ If your publication is not included here, please feel free to send me pull reque
 | [FedDR – Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization ](https://openreview.net/forum?id=SkDYNXUM4xZ)  | UNC | Non-I.I.D, Communication Efficiency  | A combination between a nonconvex Douglas-Rachford splitting method, randomized block-coordinate strategies, and asynchronous implementation |
 | [STEM: A Stochastic Two-Sided Momentum Algorithm Achieving Near-Optimal Sample and Communication Complexities for Federated Learning](https://openreview.net/forum?id=J28lNO4p3ki)  | UMN, CMU | Parameters Optimization  |
 
-### AAAI 2021
+## AAAI 2021
 | Title  | Authors |  Targeting Problem | Method | Code/Dataset |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [On the Convergence of Communication-Efficient Local SGD for Federated Learning](https://ojs.aaai.org/index.php/AAAI/article/view/16920)  | Temple，PITT | Communication Efficiency | Gradient Compression | 
@@ -50,7 +48,7 @@ If your publication is not included here, please feel free to send me pull reque
 | [Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating](https://ojs.aaai.org/index.php/AAAI/article/view/17301)  | Xidian | Communication/Computation Efficiency|Movel backward updating mechanism and bilevel asynchronous parallel architecture|
 | [Curse or Redemption? How Data Heterogeneity Affects the Robustness of Federated Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17301)  | Nervada, IBM | Non-I.I.D, Backdooring Attacks |Heterogeneity Index, ~|
 
-### INFOCOM 2021
+## INFOCOM 2021
 | Title  | Authors |  Targeting Problem | Method | Code/Dataset |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Cost-Effective Federated Learning Design](https://ieeexplore.ieee.org/abstract/document/9488679/)  | SUHK | Communication/Computation Efficiency | Biconvex Optimization |
