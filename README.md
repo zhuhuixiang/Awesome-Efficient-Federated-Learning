@@ -49,3 +49,12 @@ If your publication is not included here, please feel free to send me pull reque
 | [Toward Understanding the Influence of Individual Clients in Federated Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17263)  | SJTU, Alibaba | Client Collaboration |Novel Estimation Algorithm|
 | [Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating](https://ojs.aaai.org/index.php/AAAI/article/view/17301)  | Xidian | Communication/Computation Efficiency|Movel backward updating mechanism and bilevel asynchronous parallel architecture|
 | [Curse or Redemption? How Data Heterogeneity Affects the Robustness of Federated Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17301)  | Nervada, IBM | Non-I.I.D, Backdooring Attacks |Heterogeneity Index, ~|
+
+### INFOCOM 2021
+| Title  | Authors |  Targeting Problem | Method | Code/Dataset |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Cost-Effective Federated Learning Design](https://ieeexplore.ieee.org/abstract/document/9488679/)  | SUHK | Communication/Computation Efficiency | Biconvex Optimization |
+| [Device Sampling for Heterogeneous Federated Learning_Theory, Algorithms, and Implementation](https://ieeexplore.ieee.org/document/9488906)  | Purdue, ZJU | Communication/Computation Efficiency | Joint Optimization |
+| [Dual Attention-Based Federated Learning for Wireless Traffic Prediction](https://ieeexplore.ieee.org/document/9488883)  | KAUST | Communication/Computation Efficiency |  | [Code](https://github.com/chuanting/FedDA)|
+| [FAIR_Quality-Aware Federated Learning with Precise User Incentive and Model Aggregation](https://ieeexplore.ieee.org/abstract/document/9488743)  | Tsinghua | Computation Efficiency | 
+| [Federated Learning over Wireless Networks: A Band-limited Coordinated Descent Approach](https://ieeexplore.ieee.org/document/9488818)  | ASU, Harvard | Communication Efficiency | 
