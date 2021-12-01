@@ -12,6 +12,7 @@ If your publication is not included here, please feel free to send me pull reque
    - **2021**
      - **ICML 2021**
      - **NeurIPS 2021**
+     - **AAAI 2021**
 ## Survey & Benchmark
 
 ## 2021
